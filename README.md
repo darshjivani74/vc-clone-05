@@ -1,2 +1,2 @@
 # vc-clone-05
-auther:darshjivani74
+Auther: Darsh Jivani 74
